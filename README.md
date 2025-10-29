@@ -5,3 +5,4 @@ Candidate Registration Number - @@@@@@
 CRS Name : Artificial Intelligence
 Course Name - Artificial Intelligence: Real-World Applications and Implications
 School Name JAIN VIDYALAYA
+ https://arul2025.github.io/aruljothi-teacher/
